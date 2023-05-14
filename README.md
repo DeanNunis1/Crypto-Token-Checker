@@ -21,7 +21,7 @@ This application is a tool that allows users to perform various checks on ERC20 
 
 ```bash
 $ git clone https://github.com/<your-username>/ERC20-Checker-App.git
-
+\```
 
 2. **Navigate to the cloned directory**
 
