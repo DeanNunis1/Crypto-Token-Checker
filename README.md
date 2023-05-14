@@ -1,4 +1,4 @@
-# **ERC20 Checker Application**
+# **Crypto Token Checker Application**
 
 ## **Description**
 
