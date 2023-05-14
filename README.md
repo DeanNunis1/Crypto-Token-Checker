@@ -4,7 +4,7 @@
 
 This application is a tool that allows users to perform various checks on ERC20 tokens on the Ethereum blockchain. It has been designed to help individuals analyze these tokens, especially in the context of identifying potential scams or low-quality projects. The application is comprised of two main parts:
 
-- **finder.py**: This is a Python script that contains a class named `ERC20Checker`. This class has various methods that can be used to gather information about a token such as its name, contract source code, and top holders. It also includes checks for scam patterns in the contract code, whether the contract ownership has been renounced, liquidity, and market cap.
+- **Checker.py**: This is a Python script that contains a class named `ERC20Checker`. This class has various methods that can be used to gather information about a token such as its name, contract source code, and top holders. It also includes checks for scam patterns in the contract code, whether the contract ownership has been renounced, liquidity, and market cap.
 
 - **GUI**: This is a graphical user interface that interacts with the ERC20Checker class in `Checker.py`. The GUI makes it easy for non-technical users to interact with the application, inputting the contract address and getting the results displayed in a user-friendly manner.
 
