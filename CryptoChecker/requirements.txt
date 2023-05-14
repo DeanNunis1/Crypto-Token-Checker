@@ -1,0 +1,13 @@
+# pip install requirements.txt
+tkinter==8.6.10
+customtkinter==0.0.5a0
+Pillow==8.3.2
+ttkthemes==3.2.2
+threading==0.0.0
+json==0.0.0
+re==2.2.1
+requests==2.26.0
+beautifulsoup4==4.10.0
+web3==5.23.1
+selenium==3.141.0
+Uniswap==0.1.0
