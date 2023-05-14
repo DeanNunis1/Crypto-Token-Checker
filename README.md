@@ -87,7 +87,7 @@ Also, this tool should not be used as the only means of due diligence when inves
 
 ## Contributions
 
-We appreciate all contributions. If you're interested in contributing, please follow these steps:
+I appreciate all contributions. If you're interested in contributing, please follow these steps:
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
