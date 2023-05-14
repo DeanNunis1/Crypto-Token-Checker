@@ -25,55 +25,55 @@ $ git clone https://github.com/<your-username>/ERC20-Checker-App.git
 
 2. **Navigate to the cloned directory**
 
-\```bash
-cd ERC20-Checker-App
-\```
+```bash
+$ cd ERC20-Checker-App
+```
 
 3. **Set up a virtual environment** (optional but recommended)
 
-\```bash
-python -m venv env
-\```
+```bash
+$ python -m venv env
+```
 
 4. **Activate the virtual environment**
 
 - On Windows:
-\```bash
-.\env\Scripts\activate
-\```
+```bash
+$ .\env\Scripts\activate
+```
 
 - On Unix or MacOS:
-\```bash
-source env/bin/activate
-\```
+```bash
+$ source env/bin/activate
+```
 
 5. **Install the required Python libraries**
 
-\```bash
-pip install -r requirements.txt
-\```
+```bash
+$ pip install -r requirements.txt
+```
 
 6. **Store your Infura API key and Etherscan API key as environment variables**
 
 - On Windows:
-\```bash
-set INFURA_API_KEY=your_infura_api_key
-set ETHERSCAN_API_KEY=your_etherscan_api_key
-\```
+```bash
+$ set INFURA_API_KEY=your_infura_api_key
+$ set ETHERSCAN_API_KEY=your_etherscan_api_key
+```
 
 - On Unix or MacOS:
-\```bash
-export INFURA_API_KEY=your_infura_api_key
-export ETHERSCAN_API_KEY=your_etherscan_api_key
-\```
+```bash
+$ export INFURA_API_KEY=your_infura_api_key
+$ export ETHERSCAN_API_KEY=your_etherscan_api_key
+```
 
 ## **Usage**
 
 1. **Run the GUI script**
 
-\```bash
-python gui.py
-\```
+```bash
+$ python gui.py
+```
 
 2. **Input the contract address** of the ERC20 token you want to check in the text box and click the "Check" button.
 
