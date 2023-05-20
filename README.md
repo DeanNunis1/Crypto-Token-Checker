@@ -98,3 +98,11 @@ I appreciate all contributions. If you're interested in contributing, please fol
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Video Demo
+
+
+
+https://github.com/DeanNunis1/Crypto-Token-Checker/assets/61598839/648b51bd-2493-448b-99b8-bf207cca3c83
+
+
