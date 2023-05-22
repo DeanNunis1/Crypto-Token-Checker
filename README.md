@@ -20,7 +20,7 @@ This application is a tool that allows users to perform various checks on ERC20 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/ERC20-Checker-App.git
+git clone https://github.com/<your-username>/Crypto-Token-Checker.git
 ```
 
 2. **Navigate to the cloned directory**
